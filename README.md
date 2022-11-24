@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 ![photo_2022-11-24_11-43-07](https://user-images.githubusercontent.com/110228652/203712959-e2f4c103-4609-4e71-92c3-04263df792d3.jpg)
+![Screenshot_20221124_114722](https://user-images.githubusercontent.com/110228652/203713759-3ced1295-6871-4f2f-8455-18aa37a97804.png)
+
 
 This project is a starting point for a Flutter application.
 
